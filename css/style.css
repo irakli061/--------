@@ -1,0 +1,46 @@
+body {
+  background-color: #262627;
+}
+
+div {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  border: 3px solid white;
+}
+
+img {
+  width: 300px;
+}
+
+p {
+  text-align: left;
+  margin-left: 3px;
+}
+
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  color: white;
+  padding: 20px;
+}
+
+th {
+  font-weight: bold;
+}
+
+h3 {
+  margin-top: 10px;
+  margin-bottom: 0;
+  color: rgb(187, 52, 52);
+}
